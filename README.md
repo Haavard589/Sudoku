@@ -1,6 +1,8 @@
 # Sudoku
 Løser en 9x9 sudoku 
 
+Krever at man har pygame instalert.
+
 Man velger en rute man trykke på den men musa. 
 For å navigere rundt kan man trykke på tab for å gå til neste rute, eller så kan man bruke piltastene. 
 Ved å trykke på END kommer man til siste rute på raden, og tilsvarende er for HOME, PAGE DOWN og UP 
